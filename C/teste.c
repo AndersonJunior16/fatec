@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main(){
+int main() {
 
-    printf("O numero é %d\n", 10);
+    printf("O numero é %d", 10);
 
     return 0;
 }
